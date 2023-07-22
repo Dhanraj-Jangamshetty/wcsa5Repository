@@ -1,4 +1,4 @@
-package keyWordDrivenFrameWork;
+package pom;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

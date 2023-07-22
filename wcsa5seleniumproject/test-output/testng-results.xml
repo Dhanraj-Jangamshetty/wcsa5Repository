@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[BeforeSuiteAnnotation]]>
+    </line>
+    <line>
+      <![CDATA[BeforeTestAnnotation]]>
+    </line>
+    <line>
+      <![CDATA[BeforeClassAnnotation]]>
+    </line>
+    <line>
+      <![CDATA[BeforeMethodAnnotation]]>
+    </line>
+    <line>
+      <![CDATA[TestAnnotation]]>
+    </line>
+    <line>
+      <![CDATA[AfterMethodAnnotation]]>
+    </line>
+    <line>
+      <![CDATA[BeforeMethodAnnotation]]>
+    </line>
+    <line>
+      <![CDATA[TestAnnotation2]]>
+    </line>
+    <line>
+      <![CDATA[AfterMethodAnnotation]]>
+    </line>
+    <line>
+      <![CDATA[AfterClassAnnotation]]>
+    </line>
+    <line>
+      <![CDATA[AfterTestAnnotation]]>
+    </line>
+    <line>
+      <![CDATA[AfterSuiteAnnotation]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-22T19:41:20 EDT" name="Default suite" finished-at="2023-07-22T19:41:20 EDT" duration-ms="137">
+    <groups>
+    </groups>
+    <test started-at="2023-07-22T19:41:20 EDT" name="Default test" finished-at="2023-07-22T19:41:20 EDT" duration-ms="137">
+      <class name="testNGExecution.AnnotationsClass">
+        <test-method is-config="true" signature="method6()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method6" finished-at="2023-07-22T19:41:20 EDT" duration-ms="25" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeSuiteAnnotation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method6 -->
+        <test-method is-config="true" signature="method8()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method8" finished-at="2023-07-22T19:41:20 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeTestAnnotation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method8 -->
+        <test-method is-config="true" signature="method4()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method4" finished-at="2023-07-22T19:41:20 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeClassAnnotation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+        <test-method is-config="true" signature="method3()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method3" finished-at="2023-07-22T19:41:20 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeMethodAnnotation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method signature="method1()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method1" finished-at="2023-07-22T19:41:20 EDT" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TestAnnotation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method2" finished-at="2023-07-22T19:41:20 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterMethodAnnotation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method is-config="true" signature="method3()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method3" finished-at="2023-07-22T19:41:20 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeMethodAnnotation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method signature="method10()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method10" finished-at="2023-07-22T19:41:20 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TestAnnotation2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method10 -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method2" finished-at="2023-07-22T19:41:20 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterMethodAnnotation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method is-config="true" signature="method5()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method5" finished-at="2023-07-22T19:41:20 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterClassAnnotation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method5 -->
+        <test-method is-config="true" signature="method9()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method9" finished-at="2023-07-22T19:41:20 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterTestAnnotation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method9 -->
+        <test-method is-config="true" signature="method7()[pri:0, instance:testNGExecution.AnnotationsClass@710c2b53]" started-at="2023-07-22T19:41:20 EDT" name="method7" finished-at="2023-07-22T19:41:20 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterSuiteAnnotation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method7 -->
+      </class> <!-- testNGExecution.AnnotationsClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
