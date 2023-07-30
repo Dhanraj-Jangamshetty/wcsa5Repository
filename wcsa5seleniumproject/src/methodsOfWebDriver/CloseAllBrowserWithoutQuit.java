@@ -25,6 +25,6 @@ public class CloseAllBrowserWithoutQuit {
 		
 		JavascriptExecutor jse = (JavascriptExecutor)driver;
 		
-		
+	}
 
 }
