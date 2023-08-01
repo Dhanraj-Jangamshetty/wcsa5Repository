@@ -19,11 +19,11 @@ import com.google.common.io.Files;
 
 
 public class BaseTest implements IautoConstant {
-	static WebDriver driver;
+	public static WebDriver driver;
 	
 	@BeforeMethod
-	public void setUp() throws IOException
-	{
+	public void setUp() throws IOException{
+	
 		Flib flib = new Flib();
 		String browserValue = flib.readPropertyData(PROP_PATH, "Browser");
 		String url = flib.readPropertyData(PROP_PATH,"Url");
