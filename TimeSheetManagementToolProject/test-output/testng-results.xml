@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-03T16:05:37 EDT" name="Default suite" finished-at="2023-08-03T16:06:00 EDT" duration-ms="23170">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T16:05:37 EDT" name="Default test" finished-at="2023-08-03T16:06:00 EDT" duration-ms="23170">
+      <class name="testPackage.LoginTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testPackage.LoginTestCase@2af004b]" started-at="2023-08-03T16:05:37 EDT" name="setUp" finished-at="2023-08-03T16:05:45 EDT" duration-ms="7369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validloginMethod()[pri:0, instance:testPackage.LoginTestCase@2af004b]" started-at="2023-08-03T16:05:45 EDT" name="validloginMethod" finished-at="2023-08-03T16:05:45 EDT" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validloginMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.LoginTestCase@2af004b]" started-at="2023-08-03T16:05:45 EDT" name="tearDown" finished-at="2023-08-03T16:05:46 EDT" duration-ms="897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testPackage.LoginTestCase@2af004b]" started-at="2023-08-03T16:05:46 EDT" name="setUp" finished-at="2023-08-03T16:05:50 EDT" duration-ms="4421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="inValidLoginMethod()[pri:0, instance:testPackage.LoginTestCase@2af004b]" started-at="2023-08-03T16:05:50 EDT" name="inValidLoginMethod" finished-at="2023-08-03T16:05:59 EDT" depends-on-methods="testPackage.LoginTestCase.validloginMethod" duration-ms="9206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidLoginMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.LoginTestCase@2af004b]" started-at="2023-08-03T16:06:00 EDT" name="tearDown" finished-at="2023-08-03T16:06:00 EDT" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPackage.LoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
